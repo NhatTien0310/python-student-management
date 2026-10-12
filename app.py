@@ -106,4 +106,4 @@ plt.close(fig)
 # #9. Thong tin nguoi thuc hien
 st.divider()
 st.caption("Nguoi thuc hien: Nguyễn Nhật Tiến")
-st.caption("Ma so sinh vien: 05120801317")
+st.caption("Ma so sinh vien: 051208011317")
